@@ -1,0 +1,35 @@
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\appsettings.json
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\practica 6.exe
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\practica 6.deps.json
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\practica 6.runtimeconfig.json
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\practica 6.dll
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\practica 6.pdb
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.AssemblyInfoInputs.cache
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.AssemblyInfo.cs
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\staticwebassets\msbuild.practica 6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\staticwebassets\msbuild.build.practica 6.props
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.practica 6.props
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.practica 6.props
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\scopedcss\bundle\practica 6.styles.css
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.dll
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\refint\practica 6.dll
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.pdb
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.genruntimeconfig.cache
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\ref\practica 6.dll
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.csproj.AssemblyReference.cache
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maxim\Web\viernes\practica 6\obj\Debug\net8.0\practica 6.csproj.Up2Date
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\usuarios\12345678910.json
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\usuarios\string12356.json
+C:\Users\maxim\Web\viernes\practica 6\bin\Debug\net8.0\Incidencias\425c7f83-249a-452c-8429-b8d666783cc9.json
